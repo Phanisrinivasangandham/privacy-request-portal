@@ -1,0 +1,5 @@
+{
+  "name": "Privacy Request Portal",
+  "description": "A clean and minimal web application for handling user data deletion requests with AI-powered classification and validation.",
+  "requestFramePermissions": []
+}
